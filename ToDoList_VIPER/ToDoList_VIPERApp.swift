@@ -11,7 +11,8 @@ import SwiftUI
 struct ToDoList_VIPERApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ToDoModuleBuilder.createModule()
+                .preferredColorScheme(.light)
         }
     }
 }
