@@ -5,7 +5,8 @@ ToDo List App (VIPER)
 
 Предварительный просмотр
 -----
-<img width="265" alt="Снимок экрана 2025-04-21 в 00 21 33" src="https://github.com/user-attachments/assets/3b7ad5ab-f6b7-49e3-9a15-c66c72081a67" />
+<img width="392" alt="Снимок экрана 2025-05-06 в 22 48 00" src="https://github.com/user-attachments/assets/9386add4-6af7-4840-9266-044b82341110" />
+
 
 
 📋 Требования к проекту
